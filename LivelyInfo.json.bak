@@ -1,0 +1,14 @@
+{
+  "AppVersion": "0.9.6.0",
+  "Title": "Crypto Periodic Table",
+  "Thumbnail": "lively_t.jpg",
+  "Preview": "lively_p.gif",
+  "Desc": "Interactive periodic table of top 100 cryptocurrencies with live prices from CoinGecko.",
+  "Author": "Mike Golus (modified)",
+  "License": null,
+  "Contact": "https://codepen.io/mikegolus/pen/OwrPgB",
+  "Type": 1,
+  "FileName": "index.html",
+  "Arguments": null,
+  "IsAbsolutePath": false
+}
